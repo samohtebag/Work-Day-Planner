@@ -18,9 +18,15 @@ Within each time block, you can write each part of your day, hour by hour, and s
 The colors of the time slots will vary. Grey represents past tasks, Red represents current tasks, and Green represents future tasks
 
 
+
+
 <a name="screenshot"></a>
 
+## Screenshot
+
 [Gif](./assets/work-scheduler-gif.gif "Gif")
+
+
 
 
 <a name="nav"></a>
