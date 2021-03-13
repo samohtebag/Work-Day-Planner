@@ -1,6 +1,10 @@
 // shows today's date
-var todaysDate = moment();
-$("#currentDay").text(todaysDate.format("MMMM Do YYYY"));
+var realTime = function () {
+    var todaysDate = moment();
+    $("#currentDay").text(todaysDate.format("MMMM Do YYYY, h:mm:ss A"));
+};
+
+setInterval(realTime, 1000);
 
 //current date + time, plus the current hour
 var timeNow = moment();
@@ -115,20 +119,16 @@ function hourColor() {
 }
 
 
+// planning
 
-
-
-// set interval to update time in real-time, 1000
+// set interval to update time in real-time (hint: 1000)
 
 // make a function that stores the user text content when they press the save button
 // get local storage and set item, get item and set item
 // make a variable for what you are taking from the text box and the time that you have
-// call the colors (classList) for things that have passed, current items, and future items
+// call the colors for things that have passed, current items, and future items
 // when you call a class/id made on the CSS, use jQuery method .addClass();
-
 // save button -> use siblings and parents to get the var for the text/time
-// moment.js -> 
-// when you get current time, specify in hours to make the function easier (military time is a hint)
-
 // shows date on the header
+// maybe use a series of if statements or a for loop....went with if statements, more organized.
 
