@@ -27,6 +27,25 @@ The colors of the time slots will vary. Grey represents past tasks, Red represen
 
 ## Navigation
 
-[github pages site] https://takuyamats.github.io/Calender-Application/
+
+[github pages site] https://samohtebag.github.io/Work-Day-Planner/
 
 [github repository site] https://github.com/samohtebag/Work-Day-Planner
+
+
+
+<a name="contrib"></a>
+
+## Contributions
+
+Thank you to the following individuals for their insights and perspectives on this project
+
+- Patrick Walker: [https://github.com/pat31477]
+
+- Jason Babanel: [https://github.com/Jbarbss]
+
+- Ben Durham: [https://github.com/bdurham227]
+
+- Takuya Matsumoto: [https://github.com/TakuyaMats]
+
+- Steve Marsh: [https://github.com/Imaparadox]
