@@ -27,10 +27,9 @@ This application was built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 ## Screenshot
 
-![Main-Page](Work-Day-Planner/assets/screenshot.jpg)
+![Main-Page](https://i.imgur.com/kJLeNWB.jpg)
 
-![Gif](https://imgur.com/avj5MwU)
-
+![Gif](https://i.imgur.com/avj5MwU.mp4)
 
 
 
