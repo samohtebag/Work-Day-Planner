@@ -13,12 +13,13 @@
 
 In this web application, we've built a daily planner.
 
-In the header, we have the short introduction and a clock displaying the live date and time
+In the header, we have the short introduction and a clock displaying the live date and time.
 
-Within each time block, you can write each part of your day, hour by hour, and save it to local storage within the browser
+Within each time block, you can write each part of your day, hour by hour, and save it to local storage within the browser.
 
-The colors of the time slots will vary. Grey represents past tasks, Red represents current tasks, and Green represents future tasks
+The colors of the time slots will vary. Grey represents past tasks, Red represents current tasks, and Green represents future tasks.
 
+This application was built using HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
 
 
