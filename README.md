@@ -2,8 +2,10 @@
 
 1. [Description](#desc)
 2. [Screenshots](#screenshot)
-2. [Navigation](#nav)
-3. [Contributions](#contrib)
+3. [Navigation](#nav)
+4. [Contributions](#contrib)
+5. [License](#license)
+
 
 <a name="desc"></a>
 
@@ -24,7 +26,9 @@ The colors of the time slots will vary. Grey represents past tasks, Red represen
 
 ## Screenshot
 
-[Gif](./assets/work-scheduler-gif.gif "Gif")
+![Main-Page](Work-Day-Planner/assets/screenshot.jpg)
+
+![Gif](https://imgur.com/avj5MwU)
 
 
 
@@ -55,3 +59,12 @@ Thank you to the following individuals for their insights and perspectives on th
 - Takuya Matsumoto: [https://github.com/TakuyaMats]
 
 - Steve Marsh: [https://github.com/Imaparadox]
+
+
+<a name="license"></a>
+## License
+
+Copyright (c) 2021 [Gabe Thomas]
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
